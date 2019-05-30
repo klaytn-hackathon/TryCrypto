@@ -1,0 +1,2 @@
+# SmartPage by TryCrypto
+
