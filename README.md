@@ -9,3 +9,11 @@ Repositories: [recipe-seed](https://github.com/trycrypto/recipe-seed), [recipe-t
 
 `recipe-tipjar` is deployed to Baobab [here](https://baobab.klaytnscope.com/account/0xa97AFDDcace8FF6DE157bc52b24B8B16CD5E05c4)
 
+This is the object model for the workflow recipe: 
+
+![Workflow Recipe Object Model](https://raw.githubusercontent.com/klaytn-hackathon/TryCrypto/master/workflow.png)
+
+**PhotoBlock:** PhotoBlock is our innovative visual authentication system that is blockchain agnostic and brings easy 2FA to blockchain applications.
+
+Repository: [PhotoBlock](https://github.com/trycrypto/photoblock)
+
