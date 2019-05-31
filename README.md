@@ -2,7 +2,7 @@
 
 ## Project Overview: https://github.com/klaytn-hackathon/TryCrypto/blob/master/SmartPage%20by%20TryCrypto.pdf
 
-## SmartPage Demo: https://klaytn.smart.pagee
+## SmartPage Demo: https://klaytn.smart.page
 
 **Smart Contracts:** We have three smart contracts. `recipe-seed` is a smart contract template for building recipes. `recipe-tipjar` is a simple recipe that we use to demonstrate the SmartPage platform. `recipe-workflow` is a work-in-progress and demonstrates a robust, business workflow recipe. 
 
