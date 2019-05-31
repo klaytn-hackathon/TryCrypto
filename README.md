@@ -17,3 +17,5 @@ This is the object model for the workflow recipe:
 
 Repository: [PhotoBlock](https://github.com/trycrypto/photoblock)
 
+![PhotoBlock](https://www.photoblock.org/361a37827935d8b16b811836a90a9e13.gif)
+
