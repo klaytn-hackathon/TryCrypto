@@ -1,6 +1,6 @@
 # SmartPage by TryCrypto
 
-## Project Video: https://www.dropbox.com/s/y0h7uccp5bor3uh/TryCrypto-SmartPage.mp4?dl=0
+## Project Video: https://www.youtube.com/watch?v=faZybUgo5gQ
 
 ## Project Overview: https://github.com/klaytn-hackathon/TryCrypto/blob/master/SmartPage%20by%20TryCrypto.pdf
 
